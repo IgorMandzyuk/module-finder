@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://w7.pngwing.com/pngs/524/704/png-transparent-install-icon-installation-computer-icons-computer-software-installer-blue-text-logo.png" align="center" style="width: 100%" />
+<img src="https://cdn-icons-png.flaticon.com/512/3596/3596744.png" align="center" style="width: 100%" />
 </div>  
   
 
